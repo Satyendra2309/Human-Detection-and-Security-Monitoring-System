@@ -159,9 +159,6 @@ Each zone can be customized by modifying the coordinates and minimum distance th
 
 Contributions are welcome! Please feel free to submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
